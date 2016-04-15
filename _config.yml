@@ -1,0 +1,28 @@
+name: Chris Caspell CTA
+favicon: null
+layout_spectrum: 0.7116396366618574
+typography_spectrum: 0.8945659250020981
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.14444911177270114
+  lightness: 0.4938602454494685
+  saturation: 0.16800941992551088
+  rhythmicContrast: 0.16266576736234128
+purpose: []
